@@ -5,8 +5,14 @@ Lola
 
 Gato Olo
 Gato Chulo
+<<<<<<< HEAD
 Gato Willy
 
 Perro Coco
 
 GRACIAS
+=======
+
+Perro Coco
+Lola
+>>>>>>> a6b079c6f057f317b7aa231fa8d241f727e39e25
