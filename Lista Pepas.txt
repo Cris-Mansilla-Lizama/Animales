@@ -4,3 +4,6 @@ Fran
 
 Gato Olo
 Gato Chulo
+
+Perro Coco
+Lola
